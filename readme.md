@@ -1,6 +1,7 @@
 Ejecución del backend :
 
 cd backend
+python -m venv venv
 .\venv\Scripts\activate
 
 py manage.py makemigrations
